@@ -1,0 +1,102 @@
+/* START OF SCROLL EFFECT */
+header, body {
+	background-image: url("../images/footer_lodyas.png");
+}
+header {
+    text-align: center;
+    position: fixed;
+    width:100%;
+    z-index: 1;
+    height: 100%;
+    overflow: hidden;
+    top: 0;
+    /*left: 0;*/
+}
+.skills{
+	/* Slogan beneath the logo */
+	color: white; 
+}
+.content-wrapper{
+    background-color: white;
+    top: 70%;
+	min-height: 12%;
+    position:absolute;
+    z-index: 2;
+    width: 100%;    
+}
+/* END OF SCROLL EFFECT */
+
+
+/* START FORMAT JOIN & CREATE BUTTONS */
+.btn-container {
+    width: 100%;
+    overflow: hidden;"
+}
+.col-md-6 {
+    width: 50%;
+    float: left; 
+    padding: 0;
+}
+/* END FORMAT JOIN & CREATE BUTTONS */
+
+header .container {
+    margin-top: 100px;
+}
+header img {
+    display: block;
+    margin: 0 auto 20px;
+    animation: bounce 2s infinite;
+    animation-name: bounce;
+    animation-duration: 2s;
+    animation-timing-function: initial;
+    animation-delay: initial;
+    animation-iteration-count: infinite;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
+}
+@keyframes bounce {  
+    0% {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    50% {
+        margin-top: 30px;
+        margin-bottom: 0px;
+    }
+    100% {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+}
+header .intro-text .name {
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+}
+header .intro-text .skills {
+    font-size: 1.25em;
+    font-weight: 300;
+}
+section {
+    width: 100%;
+}
+section h2 {
+    margin: 20px;
+    font-size: 3em;
+}
+
+section.primary h2{    
+    color: #2c3e50;
+}  
+section.success{
+    background-color: #121314;
+    color: white;
+}
+@media (min-width: 600px){
+    header .container {
+        margin-top: 150px;
+    }
+}
