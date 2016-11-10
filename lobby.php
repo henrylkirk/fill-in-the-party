@@ -1,9 +1,10 @@
 <?php
 
 include 'assets/includes/header.inc.php';
+include 'assets/includes/room-id.inc.php';
 include 'assets/includes/nav.inc.php';
 include 'assets/includes/login.inc.php';
-include 'assets/includes/room-id.inc.php';
+
 ?>
 <h1>Game Lobby</h1>
       
@@ -23,6 +24,6 @@ include 'assets/includes/room-id.inc.php';
       
 <br>
 <div>
-  <a href="#" class="btn btn-default">Start</a>
+  <a href="scoreboard.php" class="btn btn-default">Start</a>
 </div>
 
