@@ -1,8 +1,8 @@
 .game-form {
 	background-color: none; 
-	margin-top: 100px;
+	/*margin-top: 100px;
 	margin-left: 10px;
-	margin-right: 10px;
+	margin-right: 10px;*/
 }
 .game-form input{
 	border: dashed;
@@ -21,7 +21,6 @@
 	transition: 0.5s;
 	margin-left: 25%;
 }
-
 
 /* Circle */
 .circle-container {
