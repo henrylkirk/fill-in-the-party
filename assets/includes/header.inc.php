@@ -11,16 +11,13 @@
 
     <!-- Bootstrap CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <!-- Bootstrap JS -->
-    <script src="assets/js/jquery-3.1.1.min.js"></script>
-    <script src="assets/js/bootstrap.js"></script>
+    
     <!-- Custom CSS for this site -->
     <link rel="stylesheet" type="text/css" href="assets/css/home.css">
     <link rel="stylesheet" type="text/css" href="assets/css/nav.css">
     <link rel="stylesheet" type="text/css" href="assets/css/login.css">
     <link rel="stylesheet" type="text/css" href="assets/css/create-join.css">
-    <!-- Custom js -->
-    <script src="assets/js/login.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/css/theme.css">
 
 </head>
 <body>

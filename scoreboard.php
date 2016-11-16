@@ -4,8 +4,7 @@ include 'assets/includes/header.inc.php';
 include 'assets/includes/room-id.inc.php';
 
 ?>
-
-<div class="main-container">
+<div class="main-container"> <!-- Puts content below nav -->
 	<div class="row">
 		<div class="col-md-4" style="padding:30px;">
 			<h1 style="position:absolute;color:green; z-index: -1; font-size: 600%;">1</h1>
@@ -48,4 +47,4 @@ include 'assets/includes/room-id.inc.php';
 			<p style="color: white; margin-top: 20%;">Player 9</p>
 		</div>
 	</div>
-</div>
+</div> <!-- /main-container -->

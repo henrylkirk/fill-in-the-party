@@ -17,4 +17,4 @@ include 'assets/includes/login.inc.php';
 		</div>
 		<button type="submit" class="btn btn-default">Play</button>
 	</form>
-</div>
+</div> <!-- /main-container -->
