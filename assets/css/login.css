@@ -20,7 +20,7 @@
     transition: all 0.1s linear;
 }
 .panel-login>.panel-heading a.active{
-    color: #029f5b;
+    color: #3ECB5F;
     font-size: 18px;
 }
 .panel-login>.panel-heading hr{
@@ -78,7 +78,7 @@
 }
 
 .btn-register {
-    background-color: #1CB94E;
+    background-color: #3ECB5F;
     outline: none;
     color: #fff;
     font-size: 14px;
@@ -86,7 +86,7 @@
     font-weight: normal;
     padding: 14px 0;
     text-transform: uppercase;
-    border-color: #1CB94A;
+    border-color: #3ECB5F;
 }
 .btn-register:hover,
 .btn-register:focus {

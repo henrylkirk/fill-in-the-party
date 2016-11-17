@@ -24,8 +24,17 @@ header {
     z-index: 2;
     width: 100%;    
 }
+
 /* END OF SCROLL EFFECT */
 
+footer.container {
+    min-height:200px;
+    background-color:#3ECB5F;
+    color:#fff;
+    text-align:center;
+    padding-top:50px;
+    width:100%;
+}
 
 /* START FORMAT JOIN & CREATE BUTTONS */
 .btn-container {
