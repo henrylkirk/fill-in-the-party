@@ -19,5 +19,8 @@
     <link rel="stylesheet" type="text/css" href="assets/css/create-join.css">
     <link rel="stylesheet" type="text/css" href="assets/css/theme.css">
 
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Acme|Montserrat" rel="stylesheet">
+
 </head>
 <body>
