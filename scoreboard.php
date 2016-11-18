@@ -48,3 +48,9 @@ include 'assets/includes/room-id.inc.php';
 		</div>
 	</div>
 </div> <!-- /main-container -->
+
+<?php
+
+include 'assets/includes/footer.inc.php';
+
+?>

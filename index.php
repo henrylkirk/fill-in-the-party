@@ -80,6 +80,12 @@ include 'assets/includes/nav.inc.php';
         </div>
     </section>
 
+    <footer class="container" style="padding-bottom: 20px;">
+        <img src="assets/images/company_logo.png" alt="Arm Pants Games">
+        <br /><br />
+        <a href="" style="text-decoration: underline;color:white;">Contact Us</a>
+    </footer>
+
 <?php
 
 include 'assets/includes/footer.inc.php';

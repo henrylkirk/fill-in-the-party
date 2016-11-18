@@ -1,9 +1,9 @@
 <?php
 
 include 'assets/includes/header.inc.php';
+include 'assets/includes/login.inc.php';
 include 'assets/includes/room-id.inc.php';
 include 'assets/includes/nav.inc.php';
-include 'assets/includes/login.inc.php';
 
 ?>
 
@@ -30,4 +30,10 @@ include 'assets/includes/login.inc.php';
 		<a href="scoreboard.php" class="btn btn-default">Start</a>
 	</div>
 </div> <!-- /main-container -->
+
+<?php
+
+include 'assets/includes/footer.inc.php';
+
+?>
 

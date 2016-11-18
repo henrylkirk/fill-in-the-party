@@ -1,8 +1,8 @@
 <?php
 
 include 'assets/includes/header.inc.php';
-include 'assets/includes/nav.inc.php';
 include 'assets/includes/login.inc.php';
+include 'assets/includes/nav.inc.php';
 
 ?>
 <div class="main-container">
@@ -18,3 +18,9 @@ include 'assets/includes/login.inc.php';
 		<button type="submit" class="btn btn-default">Play</button>
 	</form>
 </div> <!-- /main-container -->
+
+<?php
+
+include 'assets/includes/footer.inc.php';
+
+?>
