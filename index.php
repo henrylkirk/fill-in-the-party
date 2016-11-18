@@ -12,8 +12,7 @@ include 'assets/includes/nav.inc.php';
             <div class="col-lg-12">
                 <img class="img-responsive" src="assets/images/game_logo.png" alt="Fill-in the Party Logo">
                 <div class="intro-text">
-        
-                    <p class="skills">"Technically a game."</p>
+                    <p class="skills">"A game, or whatever."</p>
                 </div>
             </div>
         </div>
@@ -23,12 +22,12 @@ include 'assets/includes/nav.inc.php';
 	<section class="primary">
 	    <div class="container btn-container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 hover">
                     <a href="join.php">
                         <img class="game-buttons img-responsive" src="assets/images/join.jpg">
                     </a>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 hover">
                     <a href="lobby.php">
                         <img class="game-buttons img-responsive" src="assets/images/create.jpg">
                     </a>
@@ -38,7 +37,7 @@ include 'assets/includes/nav.inc.php';
         </div>
     </section>
 
-    <section class="success">
+    <section class="success" style="padding-top: 60px;padding-bottom: 80px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -56,7 +55,7 @@ include 'assets/includes/nav.inc.php';
         </div>
     </section>
 
-    <section class="primary">
+    <section class="primary" style="padding-top: 60px;padding-bottom: 80px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -65,9 +64,17 @@ include 'assets/includes/nav.inc.php';
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <p>Question 1</p>
-                    <p>Question 2</p>
-                    <p>. . .</p>
+                    <p class="question">What are the benefits of signing up?</p>
+                    <p class="answer">You will be able to create your own prompt, and have access to our forums where you can view, vote, and save other users prompts for your own use.</p>
+                    <br />
+                    <p class="question">How do you play?</p>
+                    <p class="answer">Get a group of friends together of three or more and set up the game on a laptop/computer. From there use the code given to you at the start screen and join the lobby. From there you will be given a prompt with blank spaces where you will come up with something creative to put in there.</p>
+                    <br />
+                    <p class="question">Is it free?</p>
+                    <p class="answer">Completely, 100%, free. Just like Willy.</p>
+                    <br />
+                    <p class="question">How do I create an account?</p>
+                    <p class="answer">Click the sign up button in the top right corner, enter a username email, and your own personal password.</p>
                 </div>
             </div>
         </div>

@@ -1,7 +1,7 @@
-    <footer class="container">
-        ARM PANTS GAMES © 2016 
+    <footer class="container" style="padding-bottom: 20px;">
+        <img src="assets/images/company_logo.png" alt="Arm Pants Games">
         <br /><br />
-        <a href="" style="text-decoration: underline;">Contact Us</a>
+        <a href="" style="text-decoration: underline;color:white;">Contact Us</a>
     </footer>
 
     <!-- Bootstrap JS -->

@@ -1,8 +1,8 @@
-h1, h2, .navbar-inverse {
-	font-family: 'Acme', sans-serif;
-}
-p {
+* {
 	font-family: 'Montserrat', sans-serif;
+}
+h1, h2, .navbar-inverse, .id-header {
+	font-family: 'Acme', sans-serif;
 }
 .main-container {
 	margin-top: 100px;
