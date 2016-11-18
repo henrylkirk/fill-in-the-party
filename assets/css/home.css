@@ -64,7 +64,6 @@ footer.container {
 .hover:hover img {
     -webkit-transform: scale(1.3);
     transform: scale(1.3);
-    z-index: 1;
 }
 /* END FORMAT JOIN & CREATE BUTTONS */
 
