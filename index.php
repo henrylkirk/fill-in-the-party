@@ -54,7 +54,23 @@ include 'assets/includes/nav.inc.php';
             </div>
         </div>
     </section>
-
+    <section class="primary">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Video</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <video width="100%" controls>
+                        <source src="assets/video/fill-in-the-party-journey.mp4" />
+                        Your browser unfortunately does not support HTML5 video.
+                    </video>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="primary" style="padding-top: 60px;padding-bottom: 80px;">
         <div class="container">
             <div class="row">
